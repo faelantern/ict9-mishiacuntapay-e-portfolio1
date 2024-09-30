@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Cuntapay Portfolio</title>
+</head>
+<hr>
+<h1 style="background-color:white;text-align:center"> ICT E-Portfolio </h1>
+<hr> 
+<body style="background-color:black"> 
+<p align="center"> <font color="white" size="7"> <u><b>Sample Codes of Lessons given out!</b></u> </font> </p>
+<p align="center"> <a href="xhtml.html"> <font color="white" size="6"> XHTML </a> </font>  <br>
+<p align="center"> <a href="LIST.html"> <font color="white" size="6"> LISTS  </a> </font>  <br>
+<p align="center"><a href="HYPERLINKandTABLE.html"> <font color="white" size="6"> TABLE and HYPERLINK  </a> </font>  <br> 
+<p align="center"><a href="FORM.html"> <font color="white" size="6"> FORMS </a></font>  <br> 
+<p align="center"><a href="CSS.html"> <font color="white" size="6">CSS </a> </font>  <br> 
+<p> <a href="e portfolio.html" align="left"> <img src="backimg.png"> </a> <p>
+</body>
+</html>

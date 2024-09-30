@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Cuntapay Portfolio</title>
+</head>
+<body style="background-color:black"> <
+<hr>
+<h1 style="background-color:white;text-align:center"> ICT E-Portfolio </h1>
+<hr> 
+<p align="center"><img src="firstquarterimg.png"></a> <br> 
+ <a href="about me.html" target="_self"> <img src="aboutmeimg.png"></a> <br> <br>
+<a href="activities1.html" target="_self"> <img src="activities1img.png"></a> <br> <br>
+<a href="browseroutputs.html" target="_self"> <img src="browseroutputsimg.png"></a> <br> <br>
+<a href="reflection.html" target="_self"> <img src="reflectionimg.png"></a></p>
+</body>
+</html>

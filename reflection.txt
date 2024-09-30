@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Cuntapay Portfolio</title>
+</head>
+<hr>
+<h1 style="background-color:white;text-align:center"> Reflection </h1>
+<hr> 
+<body style="background-color:black">
+<p style="background-color:white">  <font size="5">
+Right of the start, I like this quarter already! I've always been curious about how coding a website works, and I'm happy to
+ learn about it this school year. Considering this is just HTML, I'm intrigued to find out that theres a lot of steps in making of a simple website and that the process can be really tedious, but even so, I do quite find it fun to encode stuff and make websites! 
+<br> <br>
+This quarter tackled the basics like the lists, forms, tables, hyperlinks and css. Out of all lessons, 
+I think I find doing hyperlinks the most fun of all the mentioned lessons. I find putting links and trying them up is very entertaining to me, which is why I like this lesson a lot; plus, hyperlinks IS a very vital lesson in a website, as a website is built on it.  </font> </p>
+
+<a href="e portfolio.html" align="left"> <img src="backimg.png"> </a>
+</body>
+</html>

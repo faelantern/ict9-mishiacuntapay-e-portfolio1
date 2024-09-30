@@ -1,0 +1,11 @@
+<html>
+<head>
+<title></title>
+</head>
+<body bgcolor="black">
+<p align="center">
+<img src="XHTMLsamplecode.png" width="600px" height="600px"> 
+<img src="XHTMLoutput.png" width="600px" height="600px"> 
+<p> <a href="browseroutputs.html" align="left"> <img src="backimg.png"> </a> <p>
+</body>
+</html>

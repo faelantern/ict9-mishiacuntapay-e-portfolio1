@@ -1,0 +1,13 @@
+<html>
+<head>
+<title></title>
+</head>
+<body style="background-color:black"> 
+<p align="center"> <font color="white"> (this is from the one whole activity) </font>
+<img src="FORMsamplecode.png" width="600px" height="600px"> 
+<video width="600px" height="600px" controls muted> <source src="FORMoutput.mp4" type="video/mp4"> 
+
+</p>
+<p> <a href="browseroutputs.html" align="left"> <img src="backimg.png"> </a> <p>
+</body>
+</html>

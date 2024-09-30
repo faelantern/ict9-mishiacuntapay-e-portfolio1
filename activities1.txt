@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Cuntapay Portfolio</title>
+</head>
+<hr>
+<h1 style="background-color:white;text-align:center"> First Quarter Activities </h1>
+<hr> 
+<body style="background-color:black"> 
+<p style="color:white;align:center;"> <font size="5"> <b> Activities that I have archived during the first quarter of grade 9! </b> </font> </p>
+<table border="1" align="center" width="1000px" height="1000px" >
+<td><img src="englishsong.png" width="500px" height="500px"></td>
+<td> <font color="white">hello chat</font> </td>
+<tr>
+<td> hello chat</td> 
+<td><font color="white">hello chat</font></td>
+</tr>
+<tr>
+<td> hello chat</td> 
+<td> <font color="white"> hello chat</font></td>
+</tr>
+</table>
+<a href="e portfolio.html" align="left"> <img src="backimg.png"> </a>
+</body>
+</html>
